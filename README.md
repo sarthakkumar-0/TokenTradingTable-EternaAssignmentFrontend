@@ -11,7 +11,15 @@ A pixel-perfect, high-performance token discovery interface built with Next.js 1
 - **Interactive UI:** Sorting, Hover effects, and accessible Radix UI components.
 - **Modern Tech Stack:** Next.js 14 App Router, TypeScript, Tailwind CSS, TanStack Query.
 
-## 🛠️ Tech Stack
+## � Screenshots
+
+### Desktop View
+![Desktop Preview](docs/desktop-preview.png)
+
+### Mobile View
+<img src="docs/mobile-preview.jpg" width="300" alt="Mobile Preview" />
+
+## �🛠️ Tech Stack
 
 - **Framework:** [Next.js 14](https://nextjs.org/) (App Router)
 - **Language:** TypeScript
