@@ -16,7 +16,7 @@ A pixel-perfect, high-performance token discovery interface built to simulate a 
 | Deliverable | Link / Status |
 | :--- | :--- |
 | **🚀 Live Deployment** | [**View Live on Vercel**](https://token-trading-table-eterna-assignment-frontend-doo5cj5ei.vercel.app/) |
-| **📹 Video Demo** | [**Watch Functionality Walkthrough (YouTube)**](https://www.youtube.com/watch?v=XLfM6s3XamA) |
+| **📹 Video Demo** | [**(YouTube)**](https://www.youtube.com/watch?v=XLfM6s3XamA) |
 | **💻 Repository** | [GitHub Repo](https://github.com/sarthakkumar-0/TokenTradingTable-EternaAssignmentFrontend) |
 
 ---
